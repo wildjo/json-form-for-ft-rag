@@ -8,7 +8,7 @@ This python code jupyter notebook file helps you create json snippets for questi
 
 🚀 **A simple, interactive Jupyter Notebook tool to generate structured JSON datasets for Fine-Tuning & RAG AI models.**  
 
-![JSON Q&A Builder Screenshot](Screenshot-2025-02-10.png)
+![JSON Q&A Builder Screenshot](screen-cap-form.png)
 
 ## 📌 Why Use This?  
 This tool helps **researchers, AI enthusiasts, and developers** create high-quality JSON datasets for training custom AI models.  
