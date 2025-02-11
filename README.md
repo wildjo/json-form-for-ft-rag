@@ -1,4 +1,4 @@
-# json-form-for-ft-rag
+# Form for Generating JSON Q&A Tuples
 This python code jupyter notebook file helps you create json snippets for question/answer tuples plus tags.
 
 [text and code by ChatGPT 4o with human oversight by Johanna "Jonnie" Wilder, 10 February 2025]
